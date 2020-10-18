@@ -1,6 +1,6 @@
 # Written by KirinFuji
 #
-# Transposition Cipher
+# scytale Cipher
 # HELLO WORLD
 # 
 # [H][E][L][L]
