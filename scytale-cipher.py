@@ -1,7 +1,12 @@
 # Written by KirinFuji
 #
 # scytale Cipher
-# HELLO WORLD
+# Written from scratch to better understand ciphers as I learn them.
+# 
+# Output from the python script can be decoded by https://www.cryptool.org/en/cto-ciphers/scytale
+# Output from https://www.cryptool.org/en/cto-ciphers/scytale can be decoded by the python script
+# 
+# HELL1O WORLD
 # 
 # [H][E][L][L]
 # [O][ ][W][O]
